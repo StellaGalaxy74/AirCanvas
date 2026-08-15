@@ -1,0 +1,6 @@
+{
+  "name": "AirDraw",
+  "description": "A hand-gesture drawing and object creation app that uses your webcam to let you draw in the air.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
